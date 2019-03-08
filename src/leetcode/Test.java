@@ -1,4 +1,4 @@
-package sort;
+package leetcode;
 
 public class Test {
 

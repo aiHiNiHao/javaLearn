@@ -1,4 +1,4 @@
-package sort;
+package leetcode;
 
 import java.util.Stack;
 
@@ -36,6 +36,8 @@ public class Test1 {
         return firstSum;
     }
 
+
+    //失败的例子
     public static void sort(int[] array) {
 
         Stack<int[]> pool = new Stack<>();
