@@ -1,6 +1,6 @@
 public class MathTest {
     public static void main(String [] args){
-        testLog();
+        function();
     }
 
     public static void testLog(){
@@ -14,5 +14,10 @@ public class MathTest {
     public static void testDits(){
         double d = 12.2324325345345345345;
 
+    }
+
+    public static void function(){
+        int i  = 0xFF00 & 0x0FF0 ;
+        System.out.println(i);
     }
 }
