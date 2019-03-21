@@ -1,6 +1,5 @@
 package annotation;
 
-import jdk.jfr.Description;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
